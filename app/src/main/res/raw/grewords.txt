@@ -1,0 +1,12 @@
+a	a1
+b	b1
+c	c1
+d	d1
+e	e1
+f	f1
+g	g1
+h	h1
+i	i1
+j	j1
+k	k1
+abate	to lessen to subside
